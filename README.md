@@ -1,5 +1,5 @@
 # marketing_digital_ecommerce_validaci-n_hipotesis
-Proyecto 8: Validando hipótesis de negocio con pruebas estadísticas
+Sprint 9 | Proyecto 8: Validando hipótesis de negocio con pruebas estadísticas
 
 Como analista de datos en el equipo de marketing digital de una empresa de ecommerce se ejecutó un experimento A/B en la página de inicio (landing page), comparando dos versiones (A y B) con el objetivo de mejorar la tasa de conversión y el valor económico por usuario. La empresa necesitaba una decisión basada en datos para definir qué versión implementar, considerando la tasa de conversión, el gasto promedio y el comportamiento por canal de tráfico y tipo de usuario.
 
